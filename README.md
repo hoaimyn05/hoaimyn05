@@ -46,16 +46,44 @@ my = {
   <img src="https://img.shields.io/badge/AWS_EC2-273246?style=for-the-badge&logo=amazonec2&logoColor=white" alt="AWS EC2" />
 </p>
 
-### Research, honors & signals
+### Research & publications
 
-#### Springer LNCS/LNAI — Accepted Paper · Scopus Q2
+#### 01 · Weather Forecasting & Shelter Recommendation
 
-Weather forecasting system and shelter suggestion for Sydney, Melbourne, and Canberra.
+<p>
+  <img src="https://img.shields.io/badge/Status-Accepted-15803D?style=flat-square" alt="Accepted paper" />
+  <img src="https://img.shields.io/badge/Venue-Springer_LNCS%2FLNAI-7C3AED?style=flat-square" alt="Springer LNCS/LNAI" />
+  <img src="https://img.shields.io/badge/Index-Scopus_Q2-0891B2?style=flat-square" alt="Scopus Q2" />
+</p>
 
-#### Journal of Advances in Information Technology — Accepted Paper
+> A weather forecasting and shelter recommendation system designed for **Sydney, Melbourne, and Canberra**.
 
-**Insect Detection for Agricultural Pest Removal Using YOLO**  
-Indexed by [EI Compendex](http://www.jait.us/), [ESCI](http://www.jait.us/), and [Scopus](http://www.jait.us/).
+| Detail | Information |
+|---|---|
+| Research area | Machine Learning · Weather Intelligence · Recommendation Systems |
+| Coverage | Sydney · Melbourne · Canberra, Australia |
+| Publication status | Accepted paper |
+
+---
+
+#### 02 · Insect Detection for Agricultural Pest Removal Using YOLO
+
+<p>
+  <img src="https://img.shields.io/badge/Status-Accepted-15803D?style=flat-square" alt="Accepted paper" />
+  <a href="http://www.jait.us/"><img src="https://img.shields.io/badge/Venue-JAIT-7C3AED?style=flat-square" alt="Journal of Advances in Information Technology" /></a>
+  <img src="https://img.shields.io/badge/Indexed-EI_Compendex-0891B2?style=flat-square" alt="EI Compendex" />
+  <img src="https://img.shields.io/badge/Indexed-ESCI-2563EB?style=flat-square" alt="ESCI" />
+  <img src="https://img.shields.io/badge/Indexed-Scopus-0369A1?style=flat-square" alt="Scopus" />
+</p>
+
+> A YOLO-based computer vision system for detecting agricultural insects to support automated pest removal.
+
+| Detail | Information |
+|---|---|
+| Research area | Computer Vision · Object Detection · Smart Agriculture |
+| Core method | YOLO |
+| Venue | [Journal of Advances in Information Technology](http://www.jait.us/) |
+| Publication status | Accepted paper |
 
 ### Featured work
 
