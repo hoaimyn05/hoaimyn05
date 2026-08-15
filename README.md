@@ -48,21 +48,26 @@ my = {
 
 ### Research & publications
 
-#### 01 · Weather Forecasting & Shelter Recommendation
+#### 01 · [Weather Forecasting System “Four Seasons in One Day” and Shelter Suggestion for Sydney and Melbourne and Canberra](https://link.springer.com/chapter/10.1007/978-981-95-4969-6_33)
 
 <p>
-  <img src="https://img.shields.io/badge/Status-Accepted-15803D?style=flat-square" alt="Accepted paper" />
-  <img src="https://img.shields.io/badge/Venue-Springer_LNCS%2FLNAI-7C3AED?style=flat-square" alt="Springer LNCS/LNAI" />
+  <img src="https://img.shields.io/badge/Status-Published-15803D?style=flat-square" alt="Published paper" />
+  <img src="https://img.shields.io/badge/Conference-AI_2025-7C3AED?style=flat-square" alt="AI 2025" />
+  <img src="https://img.shields.io/badge/Series-Springer_LNAI_16370-6D28D9?style=flat-square" alt="Springer LNAI volume 16370" />
   <img src="https://img.shields.io/badge/Index-Scopus_Q2-0891B2?style=flat-square" alt="Scopus Q2" />
 </p>
 
-> A weather forecasting and shelter recommendation system designed for **Sydney, Melbourne, and Canberra**.
+> A multimodal weather forecasting system combining meteorological data, satellite imagery, and social signals with real-time shelter recommendations for **Sydney, Melbourne, and Canberra**.
 
 | Detail | Information |
 |---|---|
-| Research area | Machine Learning · Weather Intelligence · Recommendation Systems |
-| Coverage | Sydney · Melbourne · Canberra, Australia |
-| Publication status | Accepted paper |
+| Authors | **Nguyen Hoai My**, Nguyen Xuan Trung, Pham Nguyen Minh Phong, Le Vo Minh Thu |
+| Role | First author · Corresponding author |
+| Venue | AI 2025: Advances in Artificial Intelligence |
+| Series | Lecture Notes in Artificial Intelligence, volume 16370 |
+| Publication | Springer Singapore · 25 November 2025 · pp. 432–443 |
+| Research area | Multimodal Forecasting · Explainable AI · Transformer Architecture · Shelter Recommendation |
+| DOI | [10.1007/978-981-95-4969-6_33](https://doi.org/10.1007/978-981-95-4969-6_33) |
 
 ---
 
