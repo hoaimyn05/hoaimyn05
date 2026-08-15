@@ -13,11 +13,34 @@ I'm an Artificial Intelligence undergraduate at **FPT University**, focused on b
 
 ```python
 my = {
-    "role": "AI Engineer & Researcher",
-    "university": "FPT University",
+    "name": "Nguyen Hoai My",
+    "roles": [
+        "AI Engineer",
+        "AI Researcher",
+    ],
+    "education": {
+        "degree": "B.Sc. Artificial Intelligence",
+        "university": "FPT University",
+    },
     "location": "Ho Chi Minh City, Vietnam",
-    "focus": ["Computer Vision", "LLM Applications", "Agentic AI"],
-    "principle": "Turn intelligent models into reliable products."
+    "research_focus": [
+        "Large Language Models",
+        "Machine Learning",
+        "Computer Vision",
+    ],
+    "engineering": [
+        "PyTorch", "FastAPI", "Docker",
+        "PostgreSQL", "AWS EC2",
+    ],
+    "current_project": "Flux AI",
+    "research_papers": {
+        "published": 1,
+        "accepted": 1,
+    },
+    "mission": (
+        "Turn research experiments into "
+        "reliable AI products."
+    ),
 }
 ```
 
