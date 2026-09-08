@@ -113,15 +113,7 @@ my = {
 | Venue | [Journal of Advances in Information Technology](http://www.jait.us/) |
 | Publication status | Accepted paper |
 
-### Featured work
 
-#### Flux AI — Personal Financial Coach
-
-An AI financial coaching system powered by multi-step LLM orchestration, designed to turn personal financial context into useful, explainable guidance. **In development.**
-
-#### Secure Face Login Pipeline
-
-A secure authentication pipeline combining Face Anti-Spoofing and Face Recognition to reduce presentation attacks before identity matching. **Built; public case study coming soon.**
 
 ### Let's connect
 
