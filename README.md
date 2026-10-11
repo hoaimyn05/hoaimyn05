@@ -1,13 +1,13 @@
 <p align="center">
-  <img src="assets/ai-profile-header.svg" width="100%" alt="Nguyen Hoai My — Artificial Intelligence Student" />
+  <img src="assets/profile-banner.jpg" width="100%" alt="Nguyen Hoai My — AI Engineer & Researcher" />
 </p>
 
 <p align="center">
-  <a href="https://hoaimyn05.github.io"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=640&lines=AI+Engineer+%26+Researcher;Computer+Vision+%C2%B7+LLMs+%C2%B7+Speech+AI;Published+at+AJCAI+2025+%26+ICIIT+2026;Research+%E2%86%92+Engineer+%E2%86%92+Deploy" alt="Typing intro: AI Engineer & Researcher" /></a>
+  <a href="https://hoaimyn05.github.io"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3200&pause=900&color=ff9a3d&center=true&vCenter=true&width=640&lines=AI+Engineer+%26+Researcher;Computer+Vision+%C2%B7+LLMs+%C2%B7+Speech+AI;Published+at+AJCAI+2025+%26+ICIIT+2026;Research+%E2%86%92+Engineer+%E2%86%92+Deploy" alt="Typing intro: AI Engineer & Researcher" /></a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hoaimyn05&label=Profile%20views&color=7c3aed&style=for-the-badge" alt="Profile views counter" />
+  <img src="https://komarev.com/ghpvc/?username=hoaimyn05&label=Profile%20views&color=ff5e1a&style=for-the-badge" alt="Profile views counter" />
   <a href="https://github.com/hoaimyn05?tab=followers"><img src="https://img.shields.io/github/followers/hoaimyn05?label=Followers&style=for-the-badge&logo=github&color=0891b2" alt="GitHub followers" /></a>
   <a href="https://hoaimyn05.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio website" /></a>
 </p>
@@ -18,8 +18,6 @@
   <a href="mailto:hoaimyn05@gmail.com"><img src="https://img.shields.io/badge/Email-hoaimyn05%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
-<img align="right" src="assets/hoai-my.png" width="210" alt="Portrait of Nguyen Hoai My" />
-
 ## Hello, I'm Nguyen Hoai My 👋
 
 I'm an Artificial Intelligence undergraduate at **FPT University** (2023 – 2027), focused on building practical AI systems from research experiments to deployable products. I work across Computer Vision, LLM-powered workflows, speech & NLP models, backend AI services, and MLOps-style deployment.
@@ -28,8 +26,6 @@ I'm an Artificial Intelligence undergraduate at **FPT University** (2023 – 202
 - 🔭 Building **Flux AI**, a personal financial coach powered by multi-step LLM orchestration
 - 🛡️ Developing secure identity flows with Face Anti-Spoofing and Face Recognition
 - 🚀 Deploying AI services with FastAPI, Docker, PostgreSQL, and AWS EC2
-
-<br clear="right" />
 
 ```python
 my = {
@@ -84,12 +80,12 @@ my = {
 ### GitHub activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hoaimyn05&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9&ring_color=7c3aed" alt="GitHub stats: stars, commits, PRs, issues" />
-  <img height="170" src="https://streak-stats.demolab.com?user=hoaimyn05&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakLabel=A78BFA&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Contribution streak and total contributions" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hoaimyn05&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff9a3d&icon_color=ffc46b&text_color=c9d1d9&ring_color=ff5e1a" alt="GitHub stats: stars, commits, PRs, issues" />
+  <img height="170" src="https://streak-stats.demolab.com?user=hoaimyn05&hide_border=true&background=0D1117&ring=ff5e1a&fire=ffc46b&currStreakLabel=ff9a3d&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Contribution streak and total contributions" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoaimyn05&bg_color=0d1117&color=a78bfa&line=7c3aed&point=22d3ee&area=true&area_color=7c3aed&hide_border=true" width="100%" alt="Contribution activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoaimyn05&bg_color=0d1117&color=ff9a3d&line=ff5e1a&point=ffc46b&area=true&area_color=ff5e1a&hide_border=true" width="100%" alt="Contribution activity graph" />
 </p>
 
 <p align="center">
@@ -115,9 +111,9 @@ my = {
 
 <p>
   <img src="https://img.shields.io/badge/Status-Published-15803D?style=flat-square" alt="Published paper" />
-  <img src="https://img.shields.io/badge/Conference-AJCAI_2025-7C3AED?style=flat-square" alt="AJCAI 2025" />
+  <img src="https://img.shields.io/badge/Conference-AJCAI_2025-ff5e1a?style=flat-square" alt="AJCAI 2025" />
   <img src="https://img.shields.io/badge/CORE-Rank_B-A21CAF?style=flat-square" alt="CORE Rank B" />
-  <img src="https://img.shields.io/badge/Series-Springer_LNAI_16370-6D28D9?style=flat-square" alt="Springer LNAI volume 16370" />
+  <img src="https://img.shields.io/badge/Series-Springer_LNAI_16370-c2410c?style=flat-square" alt="Springer LNAI volume 16370" />
   <img src="https://img.shields.io/badge/Index-Scopus_Q2-0891B2?style=flat-square" alt="Scopus Q2" />
 </p>
 
@@ -140,7 +136,7 @@ my = {
 
 <p>
   <img src="https://img.shields.io/badge/Status-Published-15803D?style=flat-square" alt="Published paper" />
-  <img src="https://img.shields.io/badge/Conference-ICIIT_2026-7C3AED?style=flat-square" alt="ICIIT 2026" />
+  <img src="https://img.shields.io/badge/Conference-ICIIT_2026-ff5e1a?style=flat-square" alt="ICIIT 2026" />
   <img src="https://img.shields.io/badge/Publisher-ACM-0369A1?style=flat-square&logo=acm&logoColor=white" alt="ACM" />
 </p>
 
@@ -166,7 +162,7 @@ I'm open to AI research, engineering internships, student collaborations, and co
 </p>
 
 <p align="center">
-  <a href="https://hoaimyn05.github.io"><img src="https://img.shields.io/badge/See_the_interactive_portfolio-hoaimyn05.github.io-7C3AED?style=for-the-badge" alt="Interactive portfolio" /></a>
+  <a href="https://hoaimyn05.github.io"><img src="https://img.shields.io/badge/See_the_interactive_portfolio-hoaimyn05.github.io-ff5e1a?style=for-the-badge" alt="Interactive portfolio" /></a>
   <br />
   <sub>Research → Engineer → Deploy · Ho Chi Minh City, Vietnam</sub>
 </p>
