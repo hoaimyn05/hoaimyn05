@@ -3,10 +3,13 @@
 </p>
 
 <p align="center">
-  <a href="https://hoaimyn05.github.io"><img src="assets/readme/btn-portfolio.svg" width="23%" alt="Portfolio" /></a>
-  <a href="https://scholar.google.com/citations?user=iMd_5b4AAAAJ&hl=vi"><img src="assets/readme/btn-scholar.svg" width="23%" alt="Google Scholar" /></a>
-  <a href="https://www.linkedin.com/in/hoimy935/"><img src="assets/readme/btn-linkedin.svg" width="23%" alt="LinkedIn" /></a>
-  <a href="mailto:hoaimyn05@gmail.com"><img src="assets/readme/btn-email.svg" width="23%" alt="Email" /></a>
+  <a href="https://hoaimyn05.github.io"><img src="assets/readme/btn-portfolio.svg" width="31%" alt="Portfolio" /></a>
+  <a href="https://scholar.google.com/citations?user=iMd_5b4AAAAJ&hl=vi"><img src="assets/readme/btn-scholar.svg" width="31%" alt="Google Scholar" /></a>
+  <a href="https://www.linkedin.com/in/hoimy935/"><img src="assets/readme/btn-linkedin.svg" width="31%" alt="LinkedIn" /></a>
+  <br />
+  <a href="mailto:hoaimyn05@gmail.com"><img src="assets/readme/btn-email.svg" width="31%" alt="Email hoaimyn05@gmail.com" /></a>
+  <a href="https://www.facebook.com/hoimy.935/"><img src="assets/readme/btn-facebook.svg" width="31%" alt="Facebook" /></a>
+  <a href="tel:+84982289048"><img src="assets/readme/btn-phone.svg" width="31%" alt="Phone 0982 289 048" /></a>
 </p>
 
 <p align="center">
@@ -46,12 +49,8 @@
 <img src="assets/readme/section-activity.svg" width="100%" alt="03 / Activity — Commit log." />
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hoaimyn05&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=121016&title_color=ff9a3d&icon_color=ffc46b&text_color=c9d1d9&ring_color=ff5e1a" alt="GitHub stats: stars, commits, PRs, issues" />
-  <img height="170" src="https://streak-stats.demolab.com?user=hoaimyn05&hide_border=true&background=121016&ring=ff5e1a&fire=ffc46b&currStreakLabel=ff9a3d&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=8B949E" alt="Contribution streak and total contributions" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hoaimyn05&bg_color=121016&color=ff9a3d&line=ff5e1a&point=ffc46b&area=true&area_color=ff5e1a&hide_border=true" width="100%" alt="Contribution activity graph" />
+  <img src="https://raw.githubusercontent.com/hoaimyn05/hoaimyn05/output/stats.svg" width="100%" alt="GitHub stats: contributions, commits, streak and pull requests" />
+  <img src="https://raw.githubusercontent.com/hoaimyn05/hoaimyn05/output/activity.svg" width="100%" alt="Contribution activity over the last 31 days" />
 </p>
 
 <p align="center">

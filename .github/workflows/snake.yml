@@ -1,4 +1,4 @@
-name: Generate contribution snake
+name: Generate profile stats and snake
 
 on:
   schedule:
@@ -14,6 +14,14 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - name: Render stats and activity graph
+        run: node .github/scripts/activity.mjs ${{ github.repository_owner }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       - uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
