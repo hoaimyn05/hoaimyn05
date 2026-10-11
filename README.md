@@ -12,7 +12,13 @@
   <a href="https://hoaimyn05.github.io"><img src="https://img.shields.io/badge/Portfolio-Visit-111827?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio website" /></a>
 </p>
 
-<img align="right" src="assets/pixel-avatar.svg" width="230" alt="Pixel art portrait of Hoai My" />
+<p align="center">
+  <a href="https://www.linkedin.com/in/hoimy935/"><img src="https://img.shields.io/badge/LinkedIn-hoimy935-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://scholar.google.com/citations?user=iMd_5b4AAAAJ&hl=vi"><img src="https://img.shields.io/badge/Google_Scholar-Profile-4285F4?style=flat-square&logo=googlescholar&logoColor=white" alt="Google Scholar" /></a>
+  <a href="mailto:hoaimyn05@gmail.com"><img src="https://img.shields.io/badge/Email-hoaimyn05%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<img align="right" src="assets/hoai-my.png" width="210" alt="Portrait of Nguyen Hoai My" />
 
 ## Hello, I'm Nguyen Hoai My 👋
 
@@ -153,10 +159,11 @@ my = {
 
 I'm open to AI research, engineering internships, student collaborations, and conversations about taking intelligent systems from prototype to production.
 
-<!-- Replace the placeholders below, then remove this comment.
-- Email: your-email@example.com
-- LinkedIn: https://www.linkedin.com/in/your-handle
--->
+<p align="center">
+  <a href="mailto:hoaimyn05@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact_me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email me" /></a>
+  <a href="https://www.linkedin.com/in/hoimy935/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+  <a href="https://scholar.google.com/citations?user=iMd_5b4AAAAJ&hl=vi"><img src="https://img.shields.io/badge/Google_Scholar-Publications-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar publications" /></a>
+</p>
 
 <p align="center">
   <a href="https://hoaimyn05.github.io"><img src="https://img.shields.io/badge/See_the_interactive_portfolio-hoaimyn05.github.io-7C3AED?style=for-the-badge" alt="Interactive portfolio" /></a>
